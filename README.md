@@ -1,5 +1,5 @@
 # Md. Azizul Hakim Akib
-### Software Engineer | Machine Learning Enthusiast
+### Software Engineer |Python, ML, Fastapi,Postgresql |A Python & Machine Learning Enthusiast
 
 - **Contact**: [akib1162100@gmail.com](mailto:akib1162100@gmail.com) | +880 1521 111 883
 - **LinkedIn**: [linkedin.com/in/azizul-hakim-akib-3655a7210](https://linkedin.com/in/azizul-hakim-akib-3655a7210)
@@ -79,17 +79,17 @@ Software Engineer with experience in Machine Learning, Backend Development, and 
 #### Conversational Assistant  
 *Developer (April 2021 - November 2021)*  
 - Built a financial conversational assistant for Mutual Trust Bank (MTB) as part of a government project.  
-- **[GitHub Link](https://github.com/akib1162100/conversational-assistant)**
+- **[GitHub Demo Link](https://github.com/akib1162100/financial-demo)**
 
 #### Ogreem  
 *Backend Developer (August 2022 - May 2023)*  
 - Developed a scalable financial backend solution for salary management using FastAPI, SqlAlchemy, and asyncio.  
-- **[Project Link](https://github.com/akib1162100/ogreem)**
+- **[Project Link](https://dashboard.ogreem.com)**
 
 #### Hummable - Automatic Music Transcription (AMT)  
 *Developer (June 2023 - Present)*  
 - Processes human voice to generate a MIDI file using deep learning and sequential models.  
-- **[Demo Link](https://github.com/akib1162100/hummable)**
+- **[Demo Link](https://www.bandlab.com/post/bf392566-eef1-ee11-aaf0-000d3aa5105b)**
 
 #### Face Detection and Age Prediction with Anti-Spoofing  
 *Developer (September 2021 - January 2022)*  
@@ -99,6 +99,7 @@ Software Engineer with experience in Machine Learning, Backend Development, and 
 #### API Integration for Omera E-Commerce  
 *Lead Developer (March 2024 - Present)*  
 - Designed and integrated mobile and web APIs for Omera e-commerce with Python and Odoo backend.
+- **[Omera Web Link](https://shop.omeralpg.com/shop)**
 
 #### Sales Module for BRAC AI ERP  
 *Lead Developer (July 2024 - Present)*  
@@ -108,6 +109,41 @@ Software Engineer with experience in Machine Learning, Backend Development, and 
 *Developer (January 2022 - March 2021)*  
 - Created an automated tool for extracting details from Bangladeshi NIDs, Smart Cards, and Passports using OCR and OpenCV.  
 - **[GitHub Link](https://github.com/akib1162100/nid-extraction)**
+
+
+#### Machine Learning Projects
+- **Face Detection with Blinking Detection**  
+  Developed a face detection system with blinking detection functionality using OpenCV.  
+  **[GitHub Link](https://github.com/akib1162100/face_detection_with_blinking)**
+
+- **Data Science Challenge**  
+  Participated in various data science challenges, focusing on data processing and model training.  
+  **[GitHub Link](https://github.com/akib1162100/data_science_challenge)**
+
+- **Bangladeshi NID Processing**  
+  Automated extraction of information from Bangladeshi NIDs using OpenCV and OCR.  
+  **[GitHub Link](https://github.com/akib1162100/bd_nid_process)**
+
+- **Rice Data Analysis**  
+  Performed data analysis on rice production datasets, utilizing various statistical and machine learning techniques.  
+  **[GitHub Link](https://github.com/akib1162100/Rice_data_analysis)**
+
+- **RAG (Retrieval-Augmented Generation) LLM Basic Implementation**  
+  Implemented a basic RAG setup for an LLM, combining retrieval and generation for improved responses.  
+  **[GitHub Link](https://github.com/akib1162100/RAG_LLM_basic)**
+
+- **ML Base**  
+  A repository with foundational machine learning models and pipelines, serving as a base for ML projects.  
+  **[GitHub Link](https://github.com/akib1162100/ML_base)**
+
+- **Healthcare RAG**  
+  Developed a healthcare-specific RAG (Retrieval-Augmented Generation) model for providing medical information support.  
+  **[GitHub Link](https://github.com/akib1162100/healthcare_rag)**
+
+- **Tweet Sentiment Analysis**  
+  Built a sentiment analysis model for tweets, analyzing public sentiment on various topics.  
+  **[GitHub Link](https://github.com/akib1162100/tweet_sentiment)**
+
 
 ---
 
