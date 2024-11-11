@@ -88,7 +88,8 @@ Software Engineer with experience in Machine Learning, Backend Development, and 
 
 #### Hummable - Automatic Music Transcription (AMT)  
 *Developer (June 2023 - Present)*  
-- Processes human voice to generate a MIDI file using deep learning and sequential models.  
+- Processes human voice to generate a MIDI file using deep learning and sequential models.
+- **[Colab Link](https://colab.research.google.com/github/akib1162100/AMT_R-D/blob/r%26d/audioToMidi.ipynb)**  
 - **[Demo Link](https://www.bandlab.com/post/bf392566-eef1-ee11-aaf0-000d3aa5105b)**
 
 #### Face Detection and Age Prediction with Anti-Spoofing  
