@@ -1,5 +1,5 @@
 # Md. Azizul Hakim Akib
-### Software Engineer |Python, ML, Fastapi,Postgresql |A Python & Machine Learning Enthusiast
+### senior Software Engineer |Python, ML, Fastapi,Postgresql |A Python & Machine Learning Enthusiast
 
 - **Contact**: [akib1162100@gmail.com](mailto:akib1162100@gmail.com) | +880 1521 111 883
 - **LinkedIn**: [linkedin.com/in/azizul-hakim-akib-3655a7210](https://linkedin.com/in/azizul-hakim-akib-3655a7210)
@@ -32,9 +32,11 @@ Software Engineer with experience in Machine Learning, Backend Development, and 
 ### Experience
 
 #### Mir Info Systems  
-*Software Engineer (August 2022 - Present)*  
-- **Projects**:  
+*Senior Software Engineer (August 2022 - Present)*  
+- **Projects**:
   - **Ogreem**: Developed a scalable financial web application using FastAPI.
+  - **Brac AI ERP**: Design and Integrate Sales module in Python for BRAC AI ERP (Odoo Backend)
+  - **Attendance System**: Developed and integrated an attendance synchronization and rostering system with biometric input, tailored for enterprise-level deployment using Odoo.
   - **Hummable**: Currently developing an automatic music transcription system using deep learning and sequential models.
   - **Bangla Speech-to-Text**: Implemented STT and sentiment analysis models using transformers.
   - **Stock Forecasting**: Built a forecasting tool using sequential models.
@@ -85,6 +87,14 @@ Software Engineer with experience in Machine Learning, Backend Development, and 
 *Backend Developer (August 2022 - May 2023)*  
 - Developed a scalable financial backend solution for salary management using FastAPI, SqlAlchemy, and asyncio.  
 - **[Project Link](https://dashboard.ogreem.com)**
+
+#### Brac AI ERP
+*Lead Developer  (October 2024 - Present)
+- Design and Integrate Sales module in Python for BRAC AI ERP (Odoo Backend)
+
+#### API integration for Omera e-commerce
+*Lead Developer  (March 2024 - November 2024)
+- Design and Integrate Omera e-commerce mobile end and website's API with Python (Odoo Backend)
 
 #### Hummable - Automatic Music Transcription (AMT)  
 *Developer (June 2023 - Present)*  
