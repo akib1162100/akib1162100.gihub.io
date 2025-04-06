@@ -1,5 +1,5 @@
 # Md. Azizul Hakim Akib
-### senior Software Engineer |Python, ML, Fastapi,Postgresql |A Python & Machine Learning Enthusiast
+### Senior Software Engineer |Python, ML, Fastapi,Postgresql |A Python & Machine Learning Enthusiast
 
 - **Contact**: [akib1162100@gmail.com](mailto:akib1162100@gmail.com) | +880 1521 111 883
 - **LinkedIn**: [linkedin.com/in/azizul-hakim-akib-3655a7210](https://linkedin.com/in/azizul-hakim-akib-3655a7210)
